@@ -1,5 +1,8 @@
 # sr-pago
 
+## Requerimientos
+[Ver archivo](https://github.com/jfernandezlarriera/sr-pago/blob/main/Coding%20Exercise%20Javascript.pdf)
+
 ## Requesitos
 
 * Docker
